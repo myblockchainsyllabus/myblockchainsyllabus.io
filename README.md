@@ -10,3 +10,6 @@
 ## Gas optimization 
 - Common gas optimizations [`[Website]`](https://gist.github.com/hrkrshnn/ee8fabd532058307229d65dcd5836ddc)
 - A Collection of Gas Optimisation Tricks [`[Website]`](https://forum.openzeppelin.com/t/a-collection-of-gas-optimisation-tricks/19966/5)
+
+## Transactions
+- Top 10 Ethereum Transaction Errors [`[Website]`](https://www.blocknative.com/blog/ethereum-transaction-errors)
