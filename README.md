@@ -6,3 +6,7 @@
 
 ## EVM (ethereum virtual machine)
 - EVM Deep Dives [`[Website]`](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r)
+
+## Gas optimization 
+- Common gas optimizations [`[Website]`](https://gist.github.com/hrkrshnn/ee8fabd532058307229d65dcd5836ddc)
+- A Collection of Gas Optimisation Tricks [`[Website]`](https://forum.openzeppelin.com/t/a-collection-of-gas-optimisation-tricks/19966/5)
