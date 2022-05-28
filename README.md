@@ -17,3 +17,6 @@
 
 ## Transactions
 - Top 10 Ethereum Transaction Errors [`[Website]`](https://www.blocknative.com/blog/ethereum-transaction-errors)
+
+## Multisig. wallets 
+- Multisignature Wallets Can Keep Your Coins Safer (If You Use Them Right) [`[Website]`](https://www.coindesk.com/tech/2020/11/10/multisignature-wallets-can-keep-your-coins-safer-if-you-use-them-right/)
