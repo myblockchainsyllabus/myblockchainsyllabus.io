@@ -3,6 +3,7 @@
 ## Solidity Basics
 - Official Solidity docs [`[Website]`](https://docs.soliditylang.org/en/latest/)
 - Smart Contract Programmer [`[YouTube]`](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
+- Learning-solidity [`[Website]`](https://github.com/willitscale/learning-solidity) - has code + videos, but from 2017
 - Learn Solidity (for absolute beginners) - mostly defns, some code examples [`[Website]`](https://www.tutorialspoint.com/solidity/index.htm)
 
 ## Solidity + Full Stack Deevelopment 
