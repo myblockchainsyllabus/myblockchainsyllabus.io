@@ -3,6 +3,7 @@
 ## Solidity Basics
 - Official Solidity docs [`[Website]`](https://docs.soliditylang.org/en/latest/)
 - Smart Contract Programmer [`[YouTube]`](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
+- Ethereum Blockchain Developer [`[Website]`](https://ethereum-blockchain-developer.com/)
 - Learning-solidity [`[Website]`](https://github.com/willitscale/learning-solidity) - has code + videos, but from 2017
 - Learn Solidity (for absolute beginners) - mostly defns, some code examples [`[Website]`](https://www.tutorialspoint.com/solidity/index.htm)
 
@@ -21,3 +22,7 @@
 
 ## Multisig. wallets 
 - Multisignature Wallets Can Keep Your Coins Safer (If You Use Them Right) [`[Website]`](https://www.coindesk.com/tech/2020/11/10/multisignature-wallets-can-keep-your-coins-safer-if-you-use-them-right/)
+
+# Security
+- Defend against “Wild Magic” in the next Ethereum upgrade - 2019 [`[Website]`](https://medium.com/@jason.carver/defend-against-wild-magic-in-the-next-ethereum-upgrade-b008247839d2)
+- Using Ethereum’s CREATE2 - 2020 [`[Website]`](https://hackernoon.com/using-ethereums-create2-nw2137q7)
