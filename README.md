@@ -7,7 +7,7 @@
 - Learning-solidity [`[Website]`](https://github.com/willitscale/learning-solidity) - has code + videos, but from 2017
 - Learn Solidity (for absolute beginners) - mostly defns, some code examples [`[Website]`](https://www.tutorialspoint.com/solidity/index.htm)
 
-## Solidity + Full Stack Deevelopment 
+## Solidity + Full Stack Development 
 - Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course [`[YouTube]`](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 
 ## EVM (ethereum virtual machine)
